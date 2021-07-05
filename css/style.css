@@ -1,0 +1,50 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-image: url(../image/SeekPng.com_cool-frame-png_1794233.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#col h1{
+    margin: 0px;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+
+}
+
+#col {
+    background-image: linear-gradient( 
+281deg
+ , #dddddd, #e7e8acd1);
+    font-size: 58px;
+    text-align: center;
+    width: 100%;
+}
+section {
+    display: flex;
+    background-image: linear-gradient(#ffffff00, rgb(239 239 239), rgb(231 225 225 / 12%));
+    padding: 33px;
+}
+.half-width p{
+    margin-bottom:33px ;
+    margin-top: 35px;
+}
+.half-width a {
+    text-decoration: none;
+    background-color: #6897de;
+    padding: 7px 50px 7px 50px;
+    border-radius: 4px;
+    color: white;
+}
+.half-width {
+    width: 50%;
+    text-align: justify;
+    padding: 126px 55px 126px 47px;
+}
+.half-width img {
+    width: 79%;
+    margin-top: -118px;
+    margin-left: 110px;
+}
